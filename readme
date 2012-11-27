@@ -1,0 +1,27 @@
+[Overview]
+
+Dynamic code generation is ability to generate Java classes at runtime and loading them and access in the same way as ordinary compiled Java Classes. This could be achieved either by using byte-code generation libraries like Apache BCEL, asm, cglib, javaassist or by using java compilation api (javax.tools). This library uses the latter approach providing comprehensive api to both compiling and loading dynamically generated classes.
+
+http://code.google.com/p/compilation-toolbox/
+
+THIS FORK OF COMPILATION-TOOLBOX CONTAINS A FIX FOR WINDOWS USERS LOADING MULTIPLE DEPENDENCIES.
+
+This has been added as an issue on the official Issues manager: http://code.google.com/p/compilation-toolbox/issues/detail?id=2
+
+
+
+[COPYRIGHT]
+
+Copyright 2012 abstract...@gmail.com/http://code.google.com/p/compilation-toolbox/
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
