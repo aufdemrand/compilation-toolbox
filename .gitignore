@@ -1,0 +1,7 @@
+target
+.settings
+bin
+test
+test/java/org/abstractmeta/toolbox/compilation/compiler/impl/SimpleJavaFileManagerTest.java
+
+.DS_Store
