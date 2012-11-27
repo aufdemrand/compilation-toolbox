@@ -1,3 +1,5 @@
+package org.abstractmeta.toolbox.compilation.compiler.impl;
+
 /**
  * Copyright 2011 Adrian Witas
  *
@@ -13,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.abstractmeta.toolbox.compilation.compiler.impl;
+
 
 
 import org.abstractmeta.toolbox.compilation.compiler.JavaSourceCompiler;
